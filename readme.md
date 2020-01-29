@@ -1,2 +1,2 @@
 # Godot StreamPeerBuffer Repro
-Tested with Godot 3.2.rc6
+Tested with Godot 3.2.rc3
